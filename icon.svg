@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Mailu MC">
+  <rect width="64" height="64" fill="#E7E9E3"/>
+  <rect x="0" y="18" width="4" height="28" fill="#7A3B32"/>
+  <text x="12" y="30" font-family="Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#171A19">Mailu</text>
+  <text x="12" y="47" font-family="Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#171A19">MC</text>
+</svg>
